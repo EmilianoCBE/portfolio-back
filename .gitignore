@@ -1,0 +1,53 @@
+# Node.js
+node_modules/
+
+# Archivos de entorno
+.env
+
+# Logs y archivos temporales
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Dependencias instaladas
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Carpeta de compilación
+dist/
+
+# Carpetas de sistemas operativos
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Carpetas de compilación de Windows
+Thumbs.db
+ehthumbs.db
+
+# Carpetas de archivos de Windows
+$RECYCLE.BIN/
+
+# Carpetas de cache
+node_modules/
+jspm_packages/
+
+# Editor
+.vscode/
+*.sublime-project
+*.sublime-workspace
+.sublime/
+.svn/
+
+# IDEs
+.idea/
+.project
+.classpath
+.c9/
+.settings/
+.module-cache/
+.eclipse
